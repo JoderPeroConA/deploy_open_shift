@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_C24D9DBE-8B13-4E6C-BDB4-4A05D1E0E262" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_C9B2F89D-CFA9-4738-BFFE-43F4BB87B3C4" name="Keralty_HU" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_C24D9DBE-8B13-4E6C-BDB4-4A05D1E0E262">
+<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_C24D9DBE-8B13-4E6C-BDB4-4A05D1E0E262" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_C9B2F89D-CFA9-4738-BFFE-43F4BB87B3C4" name="KeraltyHu3" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_C24D9DBE-8B13-4E6C-BDB4-4A05D1E0E262">
   <dmn:extensionElements/>
   <dmn:itemDefinition id="_C247E6AF-D99B-4B1B-83F6-92B64EF2829F" name="tDatosIniciales" isCollection="false">
     <dmn:itemComponent id="_444A192B-DF15-4D6D-A713-52F04866249E" name="embarazo" isCollection="false">
@@ -592,13 +592,13 @@ I130,I131,I132,I139,I150,I151
         <di:waypoint x="1037.8188166152663" y="379.3421052631579"/>
         <di:waypoint x="951.2862684736452" y="314.1881661526637"/>
       </dmndi:DMNEdge>
-      <dmndi:DMNEdge id="dmnedge-drg-_093DBA9A-371F-4649-B4BE-36BCC7A1748F-AUTO-TARGET" dmnElementRef="_093DBA9A-371F-4649-B4BE-36BCC7A1748F">
-        <di:waypoint x="1333.1786368919975" y="378.6842105263158"/>
-        <di:waypoint x="1195.0000000000002" y="313"/>
-      </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_F005D52C-03C9-4E43-A88C-3C0F0655060F" dmnElementRef="_F005D52C-03C9-4E43-A88C-3C0F0655060F">
         <di:waypoint x="797.2990654205607" y="618"/>
         <di:waypoint x="1195.0000000000002" y="617.9999999914414"/>
+        <di:waypoint x="1195.0000000000002" y="313"/>
+      </dmndi:DMNEdge>
+      <dmndi:DMNEdge id="dmnedge-drg-_093DBA9A-371F-4649-B4BE-36BCC7A1748F-AUTO-TARGET" dmnElementRef="_093DBA9A-371F-4649-B4BE-36BCC7A1748F">
+        <di:waypoint x="1333.1786368919975" y="378.6842105263158"/>
         <di:waypoint x="1195.0000000000002" y="313"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_C1E7D135-AC1C-42A1-8E31-CD90125717D4-AUTO-TARGET" dmnElementRef="_C1E7D135-AC1C-42A1-8E31-CD90125717D4">
